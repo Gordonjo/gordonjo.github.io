@@ -1,0 +1,74 @@
+.experience__container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    gap: 2rem;
+    position: relative;
+  }
+
+  .experience__icon {
+    display: inline-block;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0rem;
+    font-size: 12rem;
+    opacity: 0.1;
+  }
+
+  .experience__content__top {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 1rem;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80%;
+  }
+
+  .experience__container > div {
+    background: var(--color-bg-variant);
+    padding: 2.4rem 5rem;
+    border-radius: 2rem;
+    border: 1px solid transparent;
+    transition: var(--transition);
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .experience__container > div:hover {
+    background: transparent;
+    border-color: var(--color-primary-variant);
+    cursor: default;
+  }
+
+  .experience__container > div h2 {
+    text-align: center;
+    margin-bottom: 0rem;
+    color: var(--color-primary);
+  }
+
+  .experience__container > div h3 {
+    text-align: center;
+    margin-bottom: 0rem;
+    color: var(--color-primary);
+  }
+
+  .experience__container > div h4 {
+    text-align: center;
+    margin-bottom: 1rem;
+    color: var(--color-white);
+    opacity: 0.6;
+    
+  }
+  
+  .experience__container > div p {
+    text-align: center;
+    margin-bottom: 2rem;
+    color: var(--color-primary);
+  }
