@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.c6212aa8.css",
-    "main.js": "/static/js/main.117518a5.js",
-    "static/media/DALLE-evolution.png": "/static/media/DALLE-evolution.d06477346a45ce73a6d2.png",
-    "static/media/DALLE-mlpip-image.png": "/static/media/DALLE-mlpip-image.4f6d16c9b9fe918ac0b4.png",
-    "static/media/DALLE-pnas.png": "/static/media/DALLE-pnas.2dad0feba0b24fc7293a.png",
-    "static/media/DALLE-convcnp.png": "/static/media/DALLE-convcnp.0dd0aeca251e48fe9239.png",
-    "static/media/dalle-image-v3.png": "/static/media/dalle-image-v3.ee1a1d4af5caec878ee1.png",
-    "static/media/DALLE-permutation-equivariance.png": "/static/media/DALLE-permutation-equivariance.cef9a26e6bd4d9f05402.png",
-    "static/media/DALLE-cnaps.png": "/static/media/DALLE-cnaps.58cf7ddef4a3f10b6e74.png",
-    "static/media/JonathanGordonCV.pdf": "/static/media/JonathanGordonCV.4a79a6d017f9a4971226.pdf",
-    "static/media/site-image.jpeg": "/static/media/site-image.b75ab7d1f2b61ddd869a.jpeg",
-    "index.html": "/index.html",
-    "main.c6212aa8.css.map": "/static/css/main.c6212aa8.css.map",
-    "main.117518a5.js.map": "/static/js/main.117518a5.js.map"
+    "main.css": "/react-portfolio/static/css/main.c6212aa8.css",
+    "main.js": "/react-portfolio/static/js/main.82973558.js",
+    "static/media/DALLE-evolution.png": "/react-portfolio/static/media/DALLE-evolution.d06477346a45ce73a6d2.png",
+    "static/media/DALLE-mlpip-image.png": "/react-portfolio/static/media/DALLE-mlpip-image.4f6d16c9b9fe918ac0b4.png",
+    "static/media/DALLE-pnas.png": "/react-portfolio/static/media/DALLE-pnas.2dad0feba0b24fc7293a.png",
+    "static/media/DALLE-convcnp.png": "/react-portfolio/static/media/DALLE-convcnp.0dd0aeca251e48fe9239.png",
+    "static/media/dalle-image-v3.png": "/react-portfolio/static/media/dalle-image-v3.ee1a1d4af5caec878ee1.png",
+    "static/media/DALLE-permutation-equivariance.png": "/react-portfolio/static/media/DALLE-permutation-equivariance.cef9a26e6bd4d9f05402.png",
+    "static/media/DALLE-cnaps.png": "/react-portfolio/static/media/DALLE-cnaps.58cf7ddef4a3f10b6e74.png",
+    "static/media/JonathanGordonCV.pdf": "/react-portfolio/static/media/JonathanGordonCV.4a79a6d017f9a4971226.pdf",
+    "static/media/site-image.jpeg": "/react-portfolio/static/media/site-image.b75ab7d1f2b61ddd869a.jpeg",
+    "index.html": "/react-portfolio/index.html",
+    "main.c6212aa8.css.map": "/react-portfolio/static/css/main.c6212aa8.css.map",
+    "main.82973558.js.map": "/react-portfolio/static/js/main.82973558.js.map"
   },
   "entrypoints": [
     "static/css/main.c6212aa8.css",
-    "static/js/main.117518a5.js"
+    "static/js/main.82973558.js"
   ]
 }
