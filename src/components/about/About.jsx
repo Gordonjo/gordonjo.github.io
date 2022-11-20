@@ -18,7 +18,7 @@ const about = () => {
           <div className="about__cards">
             <article className='about__card'>
               <h3>
-                I am research scientist at OpenAI, where I work on large language models. Is particular, I am interested in applying these models to programming tasks. Code provides a rich and structured interface to the real world, and I believe it is one of the most powerful avenues for pursuing artificial intelligence. 
+                I am research scientist at OpenAI, where I work on large language models. In particular, I am interested in applying LLMs to programming tasks. I believe that code provides a rich and structured interface to the real world, and is one of the most promising avenues for pursuing more general and useful forms of artificial intelligence. 
               </h3>
             </article>
             
