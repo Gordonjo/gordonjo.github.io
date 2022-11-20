@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c6212aa8.css",
-    "main.js": "/static/js/main.117518a5.js",
+    "main.css": "/static/css/main.a30c78c2.css",
+    "main.js": "/static/js/main.9efd36b0.js",
     "static/media/DALLE-evolution.png": "/static/media/DALLE-evolution.d06477346a45ce73a6d2.png",
     "static/media/DALLE-mlpip-image.png": "/static/media/DALLE-mlpip-image.4f6d16c9b9fe918ac0b4.png",
     "static/media/DALLE-pnas.png": "/static/media/DALLE-pnas.2dad0feba0b24fc7293a.png",
@@ -12,11 +12,11 @@
     "static/media/JonathanGordonCV.pdf": "/static/media/JonathanGordonCV.4a79a6d017f9a4971226.pdf",
     "static/media/site-image.jpeg": "/static/media/site-image.b75ab7d1f2b61ddd869a.jpeg",
     "index.html": "/index.html",
-    "main.c6212aa8.css.map": "/static/css/main.c6212aa8.css.map",
-    "main.117518a5.js.map": "/static/js/main.117518a5.js.map"
+    "main.a30c78c2.css.map": "/static/css/main.a30c78c2.css.map",
+    "main.9efd36b0.js.map": "/static/js/main.9efd36b0.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6212aa8.css",
-    "static/js/main.117518a5.js"
+    "static/css/main.a30c78c2.css",
+    "static/js/main.9efd36b0.js"
   ]
 }
