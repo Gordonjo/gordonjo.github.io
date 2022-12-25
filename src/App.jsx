@@ -13,7 +13,7 @@ import Footer from './components/footer/Footer'
 
 const App = () => {
 
-  ReactGA.initialize('UA-180159529-1');
+  ReactGA.initialize('UA-180159529-2');
   ReactGA.pageview(window.location.pathname + window.location.search);
   
   useEffect(() => {
