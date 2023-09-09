@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.75978f16.css",
-    "main.js": "/static/js/main.63744417.js",
+    "main.js": "/static/js/main.dd7d5aef.js",
     "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
     "static/media/working-image1.png": "/static/media/working-image1.f1a4f8c588d150f03541.png",
     "static/media/DALLE-gpt4-image.png": "/static/media/DALLE-gpt4-image.42069f455ec25af891f7.png",
@@ -17,11 +17,11 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.75978f16.css.map": "/static/css/main.75978f16.css.map",
-    "main.63744417.js.map": "/static/js/main.63744417.js.map",
+    "main.dd7d5aef.js.map": "/static/js/main.dd7d5aef.js.map",
     "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75978f16.css",
-    "static/js/main.63744417.js"
+    "static/js/main.dd7d5aef.js"
   ]
 }
