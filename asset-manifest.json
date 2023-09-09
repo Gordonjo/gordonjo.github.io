@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.75978f16.css",
+    "main.js": "/static/js/main.63744417.js",
+    "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
+    "static/media/working-image1.png": "/static/media/working-image1.f1a4f8c588d150f03541.png",
+    "static/media/DALLE-gpt4-image.png": "/static/media/DALLE-gpt4-image.42069f455ec25af891f7.png",
+    "static/media/dalle-image-v8.png": "/static/media/dalle-image-v8.de82738fa30b2ef54e18.png",
+    "static/media/dalle-image-v9.png": "/static/media/dalle-image-v9.c215180f755a4cc1f22e.png",
+    "static/media/DALLE-evolution.png": "/static/media/DALLE-evolution.d06477346a45ce73a6d2.png",
+    "static/media/DALLE-mlpip-image.png": "/static/media/DALLE-mlpip-image.4f6d16c9b9fe918ac0b4.png",
+    "static/media/DALLE-convcnp.png": "/static/media/DALLE-convcnp.0dd0aeca251e48fe9239.png",
+    "static/media/DALLE-permutation-equivariance.png": "/static/media/DALLE-permutation-equivariance.cef9a26e6bd4d9f05402.png",
+    "static/media/DALLE-cnaps.png": "/static/media/DALLE-cnaps.58cf7ddef4a3f10b6e74.png",
+    "static/media/JonathanGordonCV2023.pdf": "/static/media/JonathanGordonCV2023.fb791e32970af3aee3c2.pdf",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.75978f16.css.map": "/static/css/main.75978f16.css.map",
+    "main.63744417.js.map": "/static/js/main.63744417.js.map",
+    "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75978f16.css",
+    "static/js/main.63744417.js"
+  ]
+}
