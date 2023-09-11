@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.75978f16.css",
-    "main.js": "/static/js/main.dd15113e.js",
+    "main.js": "/static/js/main.cc4a614f.js",
     "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
     "static/media/working-image1.png": "/static/media/working-image1.f1a4f8c588d150f03541.png",
     "static/media/DALLE-cnaps-v2.png": "/static/media/DALLE-cnaps-v2.007a5b4e076cef0f82f9.png",
@@ -12,16 +12,16 @@
     "static/media/DALLE-permutation-equivariance-v2.png": "/static/media/DALLE-permutation-equivariance-v2.0333ed825ece5beb70b5.png",
     "static/media/dalle-image-v8.png": "/static/media/dalle-image-v8.de82738fa30b2ef54e18.png",
     "static/media/dalle-image-v9.png": "/static/media/dalle-image-v9.c215180f755a4cc1f22e.png",
-    "static/media/JonathanGordonCV2023.pdf": "/static/media/JonathanGordonCV2023.fb791e32970af3aee3c2.pdf",
+    "static/media/JonathanGordonCV.pdf": "/static/media/JonathanGordonCV.4a79a6d017f9a4971226.pdf",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.75978f16.css.map": "/static/css/main.75978f16.css.map",
-    "main.dd15113e.js.map": "/static/js/main.dd15113e.js.map",
+    "main.cc4a614f.js.map": "/static/js/main.cc4a614f.js.map",
     "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75978f16.css",
-    "static/js/main.dd15113e.js"
+    "static/js/main.cc4a614f.js"
   ]
 }
